@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807858665481",
+    "project_id": "firstapp-1aa6f",
+    "storage_bucket": "firstapp-1aa6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807858665481:android:027b8cc8b82b38f22760d8",
+        "android_client_info": {
+          "package_name": "com.kubradursun.firstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzKrOYrd62QPiQQ9K6-Y0wZWLjD3mhRAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
